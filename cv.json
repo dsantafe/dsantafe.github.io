@@ -1,0 +1,624 @@
+{
+  "basics": {
+    "name": "David Santafe Zorrilla",
+    "label": "Backend .NET developer with more than 10 years of experience & Azure Developer Associate",
+    "image": "https://avatars.githubusercontent.com/u/33662288?v=4",
+    "email": "santafedavid01@gmail.com",
+    "phone": "+57 3105340696",
+    "url": "https://www.davidsantafe.com/",
+    "summary": "+10 years of experience as a backend developer. Systems analyst with experience in the development area as a project leader. Design of computer project requirements. Analysis of requirements, management of interpersonal relationships, teamwork, ease of learning, commitment to the activities to be developed, punctual delivery, management and leadership for the organization and execution of projects.",
+    "location": {
+      "address": "",
+      "postalCode": "76003",
+      "city": "Cali",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "dsantafe",
+        "url": "https://github.com/dsantafe/"
+      },
+      {
+        "network": "YouTube",
+        "username": "DavidSantafe",
+        "url": "https://www.youtube.com/c/DavidSantafe/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "dsantafe",
+        "url": "https://www.linkedin.com/in/dsantafe/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Gosocket Corporation",
+      "position": "Senior .Net Developer",
+      "url": "https://gosocket.net/",
+      "startDate": "2021-07-15",
+      "endDate": null,
+      "summary": "Managed the full project lifecycle including conceptualization, initiation, planning, controlling, execution, and successful closure, using tools, methodologies, and best practices to ensure projects meet deadlines, quality standards, and scope. Designed and developed applications with a focus on reliability, security, scalability, extensibility, performance, and reuse. Provided leadership in both project design and development. Offered continuous support during project deployment and post-production phases. Contributed technical expertise directly and indirectly through the assigned team across all projects.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Giros y Finanzas (Banco Unión)",
+      "position": "Technical Lead",
+      "url": "https://www.bancounion.com/",
+      "startDate": "2019-05-15",
+      "endDate": "2022-04-15",
+      "summary": "As a Technical Lead at Giros y Finanzas, I structured business needs into technological solutions, led projects for software updates and adoption with appropriate architectures, and managed service agreements with providers. I defined the technological architecture of applications and systems, managed the software development lifecycle and technological resources, and supported the implementation of the IT strategic plan, acting as a change agent in the adoption of new technologies.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Navisaf - Telemetría & Gestión de Flotas",
+      "position": "Software developer",
+      "url": "https://navisaf.com/",
+      "startDate": "2017-10-15",
+      "endDate": "2019-05-15",
+      "summary": "Led the analysis, design, and development of projects using ASP.NET, SQL Server, MVC framework, and Scrum methodology. Developed and maintained web applications with .NET technologies, ensuring robustness and scalability. Worked closely with cross-functional teams to define and implement new features, optimized SQL queries for enhanced performance, and resolved coding issues. Utilized object-oriented design principles and performed unit and integration testing. Managed the software development lifecycle through agile practices and produced technical documentation for ongoing maintenance.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Ingesoft Ltda",
+      "position": "Software developer",
+      "url": "https://www.ingesoft.com.co/",
+      "startDate": "2015-06-15",
+      "endDate": "2017-10-15",
+      "summary": "Analysis, design, and development of projects in ASP.NET with SQL Server, MySQL, AS400, and Oracle databases. Implementing web applications and services using .NET technologies, developing and maintaining desktop and web applications. Collaborating with cross-functional teams to define and deliver new features, creating optimized SQL queries, troubleshooting and debugging code. Applying object-oriented design principles, conducting unit and integration testing, managing the software development lifecycle with agile methodologies, and creating technical documentation for future maintenance.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de San Buenaventura Cali",
+      "url": "https://usbcali.edu.co/",
+      "area": "Specialist in software development processes",
+      "studyType": "Specialization",
+      "startDate": "2019-07-15",
+      "endDate": "2020-11-15",
+      "score": "4.8",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Corporación Universitaria Autónoma de Nariño",
+      "url": "https://www.aunar.edu.co/",
+      "area": "Software Engineer",
+      "studyType": "Engineer",
+      "startDate": "2012-01-15",
+      "endDate": "2017-01-15",
+      "score": "4.8",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Azure AI Engineer Associate",
+      "startDate": "2024-07-01",
+      "endDate": "2025-07-01",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/api/credentials/share/es-es/DavidSantafe-5495/810B9D51C6785C48?sharingId"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals",
+      "startDate": "2024-06-01",
+      "endDate": null,
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/api/credentials/share/es-es/DavidSantafe-5495/6A73A283522153BA?sharingId"
+    },
+    {
+      "name": "Microsoft Certified: Azure Data Fundamentals",
+      "startDate": "2022-12-10",
+      "endDate": null,
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/api/credentials/share/es-es/DavidSantafe-5495/CCA032EFD9E5377F?sharingId=717DB123058ED0F3"
+    },
+    {
+      "name": "Microsoft Certified: Azure Developer Associate",
+      "startDate": "2022-06-11",
+      "endDate": "2025-06-11",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/api/credentials/share/es-es/DavidSantafe-5495/E54B98E6CABFF1AA?sharingId=717DB123058ED0F3"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "startDate": "2022-08-26",
+      "endDate": null,
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/8943eae2-fbdf-424e-ad85-b71bc34d772d"
+    }
+  ],
+  "skills": [
+    {
+      "name": "C#",
+      "level": "Advanced",
+      "keywords": [
+        "Development",
+        "Backend",
+        "Microsoft"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Advanced",
+      "keywords": [
+        "Development",
+        "Backend",
+        "Cross-Platform"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "level": "Intermediate",
+      "keywords": [
+        "Web",
+        "Backend",
+        "Dynamic"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Intermediate",
+      "keywords": [
+        "Frontend",
+        "Framework",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "MS SQL Server",
+      "level": "Advanced",
+      "keywords": [
+        "Databases",
+        "Microsoft",
+        "SQL"
+      ]
+    },
+    {
+      "name": "MS Cosmos DB",
+      "level": "Advanced",
+      "keywords": [
+        "Databases",
+        "Microsoft",
+        "NoSQL"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Storage"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Storage"
+      ]
+    },
+    {
+      "name": "Oracle",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Storage"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Azure",
+      "level": "Advanced",
+      "keywords": [
+        "Cloud Computing",
+        "Managed Services",
+        "Scalability",
+        "Solution Architecture"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Advanced",
+      "keywords": [
+        "Infrastructure as a Service",
+        "Cloud Services",
+        "Scalability",
+        "Resource Management"
+      ]
+    },
+    {
+      "name": "GCP",
+      "level": "Advanced",
+      "keywords": [
+        "Cloud Computing",
+        "Managed Services",
+        "Data Analytics",
+        "Solution Architecture"
+      ]
+    }
+  ],
+  "skillsnet": [
+    {
+      "category": "Web frameworks",
+      "items": [
+        {
+          "name": "MVC",
+          "level": "Avanzado",
+          "keywords": [
+            "Web Framework",
+            "Microsoft",
+            "MVC"
+          ]
+        },
+        {
+          "name": "Web API",
+          "level": "Avanzado",
+          "keywords": [
+            "Web Framework",
+            "Microsoft",
+            "API"
+          ]
+        },
+        {
+          "name": "Web Forms",
+          "level": "Avanzado",
+          "keywords": [
+            "Web Framework",
+            "Microsoft",
+            "Forms"
+          ]
+        },
+        {
+          "name": "Core MVC",
+          "level": "Avanzado",
+          "keywords": [
+            "Web Framework",
+            "Microsoft",
+            "MVC"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Communication frameworks",
+      "items": [
+        {
+          "name": "WCF",
+          "level": "Avanzado",
+          "keywords": [
+            "Communication Framework",
+            "Microsoft",
+            "Services"
+          ]
+        },
+        {
+          "name": "Web API RESTful",
+          "level": "Avanzado",
+          "keywords": [
+            "Communication Framework",
+            "Microsoft",
+            "API"
+          ]
+        },
+        {
+          "name": "Web Services",
+          "level": "Avanzado",
+          "keywords": [
+            "Communication Framework",
+            "Microsoft",
+            "Services"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "ORM",
+      "items": [
+        {
+          "name": "Entity Framework",
+          "level": "Avanzado",
+          "keywords": [
+            "ORM",
+            "Microsoft",
+            "Database"
+          ]
+        },
+        {
+          "name": "nHibernate",
+          "level": "Avanzado",
+          "keywords": [
+            "ORM",
+            "Java",
+            "Database"
+          ]
+        },
+        {
+          "name": "ADO.NET",
+          "level": "Avanzado",
+          "keywords": [
+            "ORM",
+            "Microsoft",
+            "Database"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "C# unit testing frameworks",
+      "items": [
+        {
+          "name": "nUnit",
+          "level": "Avanzado",
+          "keywords": [
+            "Unit Testing",
+            "C#",
+            "Testing"
+          ]
+        },
+        {
+          "name": "SpecFlow",
+          "level": "Avanzado",
+          "keywords": [
+            "Unit Testing",
+            "C#",
+            "BDD"
+          ]
+        },
+        {
+          "name": "MSTest",
+          "level": "Avanzado",
+          "keywords": [
+            "Unit Testing",
+            "C#",
+            "Microsoft"
+          ]
+        },
+        {
+          "name": "xUnit",
+          "level": "Avanzado",
+          "keywords": [
+            "Unit Testing",
+            "C#",
+            "Testing"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "C# build tools",
+      "items": [
+        {
+          "name": "TFS",
+          "level": "Avanzado",
+          "keywords": [
+            "Build Tools",
+            "Microsoft",
+            "DevOps"
+          ]
+        },
+        {
+          "name": "Jenkins",
+          "level": "Avanzado",
+          "keywords": [
+            "Build Tools",
+            "CI/CD",
+            "DevOps"
+          ]
+        },
+        {
+          "name": "Azure DevOps",
+          "level": "Avanzado",
+          "keywords": [
+            "Build Tools",
+            "Microsoft",
+            "DevOps"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Azure",
+      "items": [
+        {
+          "name": "Web apps",
+          "level": "Avanzado",
+          "keywords": [
+            "Azure",
+            "Cloud",
+            "Microsoft"
+          ]
+        },
+        {
+          "name": "Serverless functions",
+          "level": "Avanzado",
+          "keywords": [
+            "Azure",
+            "Cloud",
+            "Microsoft"
+          ]
+        },
+        {
+          "name": "Cosmos DB",
+          "level": "Avanzado",
+          "keywords": [
+            "Azure",
+            "Database",
+            "Microsoft"
+          ]
+        },
+        {
+          "name": "Azure storage",
+          "level": "Avanzado",
+          "keywords": [
+            "Azure",
+            "Storage",
+            "Microsoft"
+          ]
+        },
+        {
+          "name": "Containers and microservices",
+          "level": "Avanzado",
+          "keywords": [
+            "Azure",
+            "Microservices",
+            "Microsoft"
+          ]
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "isActive": true,
+      "description": "Deployment of services (frontend and backends) in Docker of the E-commerce Platform",
+      "highlights": [
+        "C#",
+        "Microservices",
+        "Docker"
+      ],
+      "url": "https://github.com/dsantafe/Ecommerce.Platform",
+      "github": "https://github.com/dsantafe/Ecommerce.Platform"
+    },
+    {
+      "name": "Devops Engineer Bootcamp",
+      "isActive": true,
+      "description": "Devops Engineer Bootcamp Learning",
+      "highlights": [
+        "Bash",
+        "Terraform",
+        "Docker",
+        "Kubernetes",
+        "Jenkins"
+      ],
+      "url": "https://github.com/dsantafe/Bootcamp-Devops-Engineer",
+      "github": "https://github.com/dsantafe/Bootcamp-Devops-Engineer"
+    },
+    {
+      "name": "Kong Gateway on Docker",
+      "isActive": true,
+      "description": "Install Kong Gateway on Docker",
+      "highlights": [
+        "Kong",
+        "PostqreSQL",
+        "Docker",
+        "API Management"
+      ],
+      "url": "https://github.com/dsantafe/Bootcamp-Devops-Engineer",
+      "github": "https://github.com/dsantafe/Bootcamp-Devops-Engineer"
+    },
+    {
+      "name": "Ecommerce Store",
+      "isActive": true,
+      "description": "The projects are made up of services (frontend and backends [products, merchandise & shopping-cart]). The requirement is to containerize it and deploy it in a Kubernetes cluster.",
+      "highlights": [
+        "Microservices",
+        "Kubernetes",
+        "ArgoCD"
+      ],
+      "url": "https://github.com/dsantafe/reto-100-tienda-ecommerce",
+      "github": "https://github.com/dsantafe/reto-100-tienda-ecommerce"
+    },
+    {
+      "name": "Configure a Pipeline and deploy it in k8s",
+      "isActive": true,
+      "description": "Integrating a robust CI/CD pipeline using Jenkins and deploying a complete application on a local Kubernetes cluster (Minikube).",
+      "highlights": [
+        "Microservices",
+        "Kubernetes",
+        "ArgoCD",
+        "Jenkins"
+      ],
+      "url": "https://github.com/dsantafe/295devops-jenkins-challenge",
+      "github": "https://github.com/dsantafe/295devops-jenkins-challenge"
+    },
+    {
+      "name": "Ambulance App",
+      "isActive": true,
+      "description": "Ambulance application that connects the patient with a private ambulance service.",
+      "highlights": [
+        "C#",
+        "Xamarin",
+        "Android"
+      ],
+      "url": "https://github.com/dsantafe/AiudApp",
+      "github": "https://github.com/dsantafe/AiudApp"
+    }
+  ]
+}
