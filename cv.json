@@ -106,6 +106,13 @@
   ],
   "certificates": [
     {
+      "name": "GitHub Foundations",
+      "startDate": "2024-09-14",
+      "endDate": "2027-09-14",
+      "issuer": "GitHub",
+      "url": "https://www.credly.com/badges/30412758-a8f7-4db0-b5f9-241685364c49"
+    },
+    {
       "name": "Microsoft Certified: Azure AI Engineer Associate",
       "startDate": "2024-07-01",
       "endDate": "2025-07-01",
